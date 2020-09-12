@@ -1,0 +1,62 @@
+com/example/C19/Auxilium/four.java
+ com.example.C19.Auxilium.four
+ com.example.C19.Auxilium.four$1
+com/example/C19/Auxilium/MainActivity.java
+ com.example.C19.Auxilium.MainActivity
+ com.example.C19.Auxilium.MainActivity$1
+ com.example.C19.Auxilium.MainActivity$2
+ com.example.C19.Auxilium.MainActivity$3
+ com.example.C19.Auxilium.MainActivity$4
+ com.example.C19.Auxilium.MainActivity$4$1
+ com.example.C19.Auxilium.MainActivity$5
+ com.example.C19.Auxilium.MainActivity$6
+ com.example.C19.Auxilium.MainActivity$7
+ com.example.C19.Auxilium.MainActivity$8
+ com.example.C19.Auxilium.MainActivity$MicrophoneRecognizeDelegate
+ com.example.C19.Auxilium.MainActivity$SayTask
+com/example/C19/Auxilium/xo.java
+ com.example.C19.Auxilium.xo
+com/example/C19/Auxilium/Message.java
+ com.example.C19.Auxilium.Message
+ com.example.C19.Auxilium.Message$Type
+com/example/C19/Auxilium/fu.java
+ com.example.C19.Auxilium.fu
+com/example/C19/Auxilium/pushup.java
+ com.example.C19.Auxilium.pushup
+com/example/C19/Auxilium/ChatAdapter.java
+ com.example.C19.Auxilium.ChatAdapter
+ com.example.C19.Auxilium.ChatAdapter$1
+ com.example.C19.Auxilium.ChatAdapter$ViewHolder
+com/example/C19/Auxilium/RecyclerTouchListener.java
+ com.example.C19.Auxilium.RecyclerTouchListener
+ com.example.C19.Auxilium.RecyclerTouchListener$1
+com/example/C19/Auxilium/ClickListener.java
+ com.example.C19.Auxilium.ClickListener
+com/example/C19/Auxilium/BuildConfig.java
+ com.example.C19.Auxilium.BuildConfig
+com/example/C19/Auxilium/six.java
+ com.example.C19.Auxilium.six
+ com.example.C19.Auxilium.six$1
+ com.example.C19.Auxilium.six$2
+ com.example.C19.Auxilium.six$3
+com/example/C19/Auxilium/SplashActivity.java
+ com.example.C19.Auxilium.SplashActivity
+com/example/C19/Auxilium/three.java
+ com.example.C19.Auxilium.three
+com/example/C19/Auxilium/workout.java
+ com.example.C19.Auxilium.workout
+ com.example.C19.Auxilium.workout$1
+com/example/C19/Auxilium/two.java
+ com.example.C19.Auxilium.two
+ com.example.C19.Auxilium.two$1
+com/example/C19/Auxilium/five.java
+ com.example.C19.Auxilium.five
+ com.example.C19.Auxilium.five$1
+com/example/C19/Auxilium/Dashboard.java
+ com.example.C19.Auxilium.Dashboard
+ com.example.C19.Auxilium.Dashboard$1
+ com.example.C19.Auxilium.Dashboard$2
+ com.example.C19.Auxilium.Dashboard$3
+ com.example.C19.Auxilium.Dashboard$4
+ com.example.C19.Auxilium.Dashboard$5
+ com.example.C19.Auxilium.Dashboard$6
