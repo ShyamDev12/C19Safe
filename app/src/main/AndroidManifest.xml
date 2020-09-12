@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.C19.Safegaurd">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.C19.Safegaurd.fu"></activity>
+        <activity android:name="com.example.C19.Safegaurd.pushup" />
+        <activity android:name=".MainAdapter" />
+        <activity android:name="com.example.C19.Safegaurd.workout" />
+        <activity android:name="com.example.C19.Safegaurd.xo" />
+        <activity android:name="com.example.C19.Safegaurd.two" />
+        <activity android:name="com.example.C19.Safegaurd.six" />
+        <activity android:name="com.example.C19.Safegaurd.five" />
+        <activity android:name="com.example.C19.Safegaurd.four" />
+        <activity android:name="com.example.C19.Safegaurd.three" />
+        <activity android:name="com.example.C19.Safegaurd.Dashboard" />
+        <activity
+            android:name="com.example.C19.Safegaurd.MainActivity"
+            android:label="C-19 SAFE GAURD"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.C19.Safegaurd.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_map_key" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
